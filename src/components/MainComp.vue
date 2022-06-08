@@ -26,7 +26,7 @@ import DataBoxesComp from "@/components/DataBoxesComp";
 import CountrySelectComp from "@/components/CountrySelectComp";
 
 export default {
-	name: "HomeView",
+	name: "MainComp",
 	components: { DataTitleComp, DataBoxesComp, CountrySelectComp },
 	data() {
 		return {
